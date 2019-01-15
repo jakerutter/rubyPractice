@@ -1,0 +1,3 @@
+This file was truncated and rewritten by ex16.rb
+This program identifies a file, asks the user if they want to erase it..
+and then requests 3 lines of data that it will write into the file.
